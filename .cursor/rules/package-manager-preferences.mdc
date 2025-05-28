@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Always use pnpm over other package managers, such as npm, yarn, bun etc

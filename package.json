@@ -1,0 +1,15 @@
+{
+  "name": "basic-repo",
+  "version": "1.0.0",
+  "description": "Most basic level repository containing must-haves for a new project",
+  "author": "Max Hart (m@xhart.co.uk)",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "latest",
+    "tailwindcss": "latest"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3",
+    "prettier-plugin-tailwindcss": "^0.6.11"
+  }
+}
